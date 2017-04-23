@@ -9,3 +9,5 @@ Java is a general-purpose computer programming language that is concurrent, clas
 The original and reference implementation Java compilers, virtual machines, and class libraries were originally released by Sun under proprietary licences. As of May 2007, in compliance with the specifications of the Java Community Process, Sun relicensed most of its Java technologies under the GNU General Public License. Others have also developed alternative implementations of these Sun technologies, such as the GNU Compiler for Java (bytecode compiler), GNU Classpath (standard libraries), and IcedTea-Web (browser plugin for applets).
 
 The latest version is Java 8 Update 121 which is the only version currently supported for free by Oracle, although earlier versions are supported both by Oracle and other companies on a commercial basis.
+___
+For more visit [this](https://www.java.com/en/download/faq/whatis_java.xml) link.
