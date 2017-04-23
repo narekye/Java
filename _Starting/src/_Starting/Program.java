@@ -1,7 +1,5 @@
 package _Starting;
 
-import java.util.*;
-
 public class Program {
 
 	public static void main(String[] args) {
@@ -14,6 +12,8 @@ public class Program {
 		
 		Book b2 = new Book("Fathers and Sons", "Turgencev", 1862);
 		b2.DisplayId(); // id == 2
+		
+		System.out.println(b1);
 	}
 
 	public static void Calculate(Student st) {

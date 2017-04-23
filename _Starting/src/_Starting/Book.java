@@ -5,7 +5,7 @@ public class Book {
 	private static int counter = 1;
 
 	public void DisplayId() {
-		System.out.printf("Id: %d ", id);
+		System.out.printf("Id: %d \n", id);
 	}
 
 	private String author;
