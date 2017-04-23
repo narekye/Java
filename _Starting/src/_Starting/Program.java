@@ -1,5 +1,7 @@
 package _Starting;
 
+import java.util.Scanner;
+
 public class Program {
 
 	public static void main(String[] args) {
@@ -14,6 +16,8 @@ public class Program {
 		b2.DisplayId(); // id == 2
 		
 		System.out.println(b1);
+		
+		Scanner sc = new Scanner(System.in);
 	}
 
 	public static void Calculate(Student st) {
